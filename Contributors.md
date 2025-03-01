@@ -3592,6 +3592,7 @@ Aadyant Agrawal
 - [praveenbn88](https://github.com/praveenbn88/)
 - [Kanishk](https://github.com/fantom845)
 - [Tharindu](https://github.com/tdissana)
+- My first commit to feature branch to replicate a merge commit
 - [Divyanshu Varma](https://github.com/divyanshu-varma)
 - [phantom-98](https://github.com/phantom-98)
 - [Kriemseeley](https://github.com/Kriemseeley/) Let's go!😼
