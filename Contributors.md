@@ -2709,6 +2709,7 @@ Aadyant Agrawal
 - [Atilola Oyediji](https://github.com/netblaiz)
 - [vignshwaransrinivasan](https://github.com/vignesh-04rep)
 - [Aniket Negi](https://github.com/theaniketnegi)
+- I have done a change in working directory without staging
 - [yunmaoQu](https://github.com/yunmaoQu)
 - [Kamari M.](https://github.com/Kamari93)
 - [Pablo Zurita Lozano](https://github.com/PZL2004)
