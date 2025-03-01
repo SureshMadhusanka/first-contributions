@@ -2077,6 +2077,7 @@ Aadyant Agrawal
 - [Almog](https://github.com/almogfishel)🐨
 - [Aditya](https://github.com/LogiqueClergyman)
 - [SohamKore](https://github.com/SohamKore)
+- My first commit to dev branch to replicate a merge commit
 - [Israel N Precious](https://github.com/Precious000)
 - [Rohit Singh](https://github.com/Rataash99)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
