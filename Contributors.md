@@ -1060,6 +1060,7 @@ Aadyant Agrawal
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Ester Youngreis](https://github.com/eti-youngreis)
 - [Ragini Tiwar](https://github.com/Ragini-Tiwari)
+- My second commit to feature branch to replicate a merge commit
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
