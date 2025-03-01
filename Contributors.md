@@ -634,6 +634,7 @@ Aadyant Agrawal
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
 - [Korupoju Saikrishna](https://github.com/saikrishna411)
+- My third commit to feature branch to replicate a merge commit
 - [Roshan Bara](https://github.com/roshanbara)
 - [MCorneliussen](https://github.com/MCorneliussen)
 - [Nishitha Tirumalaraju](https://github.com/nishithat-28)
@@ -1060,6 +1061,7 @@ Aadyant Agrawal
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Ester Youngreis](https://github.com/eti-youngreis)
 - [Ragini Tiwar](https://github.com/Ragini-Tiwari)
+- My second commit to feature branch to replicate a merge commit
 - [tuysh](https://github.com/Tuysh)
 - [Esther Kalsmith](https://github.com/EstherKal)
 - [Vittorio Garretto](https://github.com/VittorioGarretto)
@@ -3594,6 +3596,7 @@ Aadyant Agrawal
 - [praveenbn88](https://github.com/praveenbn88/)
 - [Kanishk](https://github.com/fantom845)
 - [Tharindu](https://github.com/tdissana)
+- My first commit to feature branch to replicate a merge commit
 - [Divyanshu Varma](https://github.com/divyanshu-varma)
 - [phantom-98](https://github.com/phantom-98)
 - [Kriemseeley](https://github.com/Kriemseeley/) Let's go!😼
