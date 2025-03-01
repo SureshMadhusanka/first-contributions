@@ -634,6 +634,7 @@ Aadyant Agrawal
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
 - [Korupoju Saikrishna](https://github.com/saikrishna411)
+- My third commit to feature branch to replicate a merge commit
 - [Roshan Bara](https://github.com/roshanbara)
 - [MCorneliussen](https://github.com/MCorneliussen)
 - [Nishitha Tirumalaraju](https://github.com/nishithat-28)
